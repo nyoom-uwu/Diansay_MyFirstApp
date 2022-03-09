@@ -1,9 +1,3 @@
 <resources>
     <string name="app_name">Diansay_MyFirstApp</string>
-    <string name="required1">Hello TVL-ICT</string>
-    <string name="cathelp">cat needs help</string>
-    <string name="required2">Lewie is in trouble!!</string>
-    <string name="button_text_one">Click to send help</string>
-    <string name="required3">Bartleby is in trouble!!</string>
-
 </resources>
